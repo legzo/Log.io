@@ -73,6 +73,7 @@ body {
 .screen .console p {
   margin-bottom: 4px;
   word-wrap: break-word;
+  white-space: pre-wrap;
 }
 .screen .console .highlight {
   background-color: #00ff00;
