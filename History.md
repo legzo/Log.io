@@ -1,3 +1,25 @@
+# 0.2.6 / 2012-03-02
+
+- Updated connect.js dependency to <=1.8.4
+
+# 0.2.5 / 2012-02-27
+
+- Compatible with node.js v0.6.x
+  - Updated socket.io-* dependencies to v0.9.0, fixes socket.io-client bug
+- Switched to Iconic icon set in place of famfamfam silk
+
+# 0.2.4 / 2012-02-20
+
+- Eased node.js version restrictions to allow v0.4.9 - v.0.4.12
+
+# 0.2.3 / 2012-01-09
+
+- Upgraded forever dependency to v0.8.2
+
+# 0.2.2 / 2011-12-15
+
+- Upgraded forever dependency to v0.7.5
+
 # 0.2.1 / 2011-09-30
 
 - Reworked installation & daemon process using npm & forever
